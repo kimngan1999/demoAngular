@@ -1,0 +1,42 @@
+
+.items{
+    padding: 0 5px 0 5px ;
+}
+ul {  
+    list-style-type: none;
+   
+    padding: 0;
+}
+ a{
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-bottom: 1px dotted rgb(129, 188, 255);
+}
+ a:hover{
+    background-color: rgb(209, 230, 255);
+   
+    
+}
+
+.categories{
+   margin: 80px 0px 0 0px;
+   
+    text-align: center;
+    width: 100%;
+    float: left;
+    
+}
+.nameCategories{
+    
+    background-color: rgb(0, 119, 255);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0 5px 0 5px ;
+    
+}
